@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am 3rd year studying Computer Science and Psychology at McGill University. 
+I am 3rd year student studying Computer Science and Psychology at McGill University. 
 
 Contact me on [LinkedIn](https://www.linkedin.com/in/SymPiracha/) or email me at sym.piracha@gmail.com
 
