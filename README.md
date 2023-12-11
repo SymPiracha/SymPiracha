@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am 4th year student studying Computer Science and Psychology at McGill University. 
+I am currently working as an API Writer Developer at [Coveo](https://www.coveo.com/en).
+
+I recently graduated from McGill University, where I studied Computer Science and Psychology.
 
 Contact me on [LinkedIn](https://www.linkedin.com/in/SymPiracha/) or email me at sym.piracha@gmail.com
 
