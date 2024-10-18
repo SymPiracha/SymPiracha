@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am currently working as an API Writer Developer at [Coveo](https://www.coveo.com/en).
+I am currently working as an API Writer at [Coveo](https://www.coveo.com/en).
 
-I recently graduated from McGill University, where I studied Computer Science and Psychology.
+I graduated from McGill University, where I studied Computer Science and Psychology.
 
 Contact me on [LinkedIn](https://www.linkedin.com/in/SymPiracha/) or email me at sym.piracha@gmail.com
 
