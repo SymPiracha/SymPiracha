@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working as a Developer Writer at [Coveo](https://www.coveo.com/en).
+I am currently working as a Developer Writer at [Instacart](https://www.instacart.com/).
 
 I graduated from McGill University, where I studied Computer Science and Psychology.
 
