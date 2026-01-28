@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working as a Developer Writer at [Instacart](https://www.instacart.com/).
+I am currently working as a Software Engineer at [Instacart](https://www.instacart.com/).
 
 I graduated from McGill University, where I studied Computer Science and Psychology.
 
